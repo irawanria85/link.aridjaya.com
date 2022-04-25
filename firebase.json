@@ -3,6 +3,6 @@
     "site": "aridjayalink",
     "public": "public",
     "appAssociation": "AUTO",
-    "rewrites": [ { "source": "/go/**", "dynamicLinks": true } ]
+    "rewrites": [ { "source": "/**", "dynamicLinks": true } ]
   }
 }
